@@ -1,0 +1,42 @@
+* {
+  font-family: "Pretendard";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+ul, ol, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+body { 
+  width: auto;
+  height: auto;    
+  box-sizing: border-box;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+input {
+  height: 40px;
+  border: 0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 5px;
+  background-color: #ffffff;
+}
+
+button {
+  width: 40px;
+  min-width: 40px;
+  height: 40px;
+  border: 0;  
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.dpn {
+  display: none !important;
+}
